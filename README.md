@@ -27,7 +27,7 @@
 [![Code of Conduct][coc-badge]][coc]
 <!-- prettier-ignore-end -->
 
-## Prerequisites
+## Prerequisites ##
 
 - Read through
   ["JavaScript to Know for React"](https://kentcdodds.com/blog/javascript-to-know-for-react)
